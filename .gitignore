@@ -1,0 +1,12 @@
+*.pdf 
+*.docs 
+*.docsx 
+*.xls
+*.xlsx 
+*.ppt 
+*.pptx 
+*.txt 
+*.csv 
+*.zip 
+__pycache__/ 
+
