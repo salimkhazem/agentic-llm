@@ -43,6 +43,7 @@ AZURE_DEPLOYMENT_NAME="deployment-name"
 AZURE_API_VERSION="2023-03-15-preview"
 AZURE_EMBEDDINGS_DEPLOYMENT="text-embedding-ada-002"
 AZURE_EMBEDDINGS_MODEL="text-embedding-ada-002"
+SERPER_API_KEY="your-api-key"
 ```
 
 ## 📖 Utilisation
