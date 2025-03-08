@@ -2,7 +2,6 @@
 
 Ce projet implémente un système multi-agent intelligent pour GRDF (Gaz Réseau Distribution France), permettant de répondre à des questions techniques, effectuer une veille stratégique et créer des visualisations de données.
 
-![Architecture du système](https://i.imgur.com/5XFVmk7.png)
 
 ## 🚀 Fonctionnalités
 
