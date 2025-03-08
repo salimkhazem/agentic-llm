@@ -9,3 +9,50 @@
 *.zip 
 __pycache__/ 
 
+# Environnement virtuel
+venv/
+env/
+.env
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Fichiers de log
+*.log
+logs/
+
+# Base de données vectorielle
+vectordb/
+
+# Documents uploadés
+uploads/
+
+# Fichiers de build
+build/
+dist/
+*.egg-info/
+
+# Fichiers IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.bak
+
+# Fichiers de configuration sensibles (sauf les exemples)
+.env
+# Ne pas ignorer .env.example
+!.env.example
+
+# Caches de Jupyter Notebook
+.ipynb_checkpoints
