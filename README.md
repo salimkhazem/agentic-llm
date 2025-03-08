@@ -130,16 +130,13 @@ GRDF/
 - **LangChain** : Framework pour la création d'applications basées sur des LLM
 - **LangGraph** : Orchestration des agents
 - **Azure OpenAI** : Modèles de langage et embeddings
+- **SerpAPI** : API pour la recherche sur Google
 - **Chroma DB** : Base de données vectorielle pour la recherche sémantique
 - **Rich** : Affichage console amélioré
 
 ## 🔒 Sécurité
 
 Les clés API et configurations sensibles doivent être stockées dans le fichier `.env` qui ne doit pas être commité dans le dépôt git.
-
-## 📝 Licence
-
-Tous droits réservés GRDF, 2023-2024.
 
 ## 👥 Contributeurs
 
