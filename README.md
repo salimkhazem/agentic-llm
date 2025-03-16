@@ -26,7 +26,7 @@ Un orchestrateur coordonne ces agents, en choisissant le plus adapté à chaque 
 1. Clonez ce dépôt :
 ```bash
 git clone <repository-url>
-cd GRDF
+cd repo
 ```
 
 2. Initialisez l'environnement :
@@ -81,12 +81,12 @@ Une API web sera bientôt disponible pour intégrer le système dans d'autres ap
 
 ## 📚 Base de connaissances
 
-Le système peut être enrichi avec des documents spécifiques à GRDF :
+Le système peut être enrichi avec des documents spécifiques au domaine :
 
 1. Placez vos documents PDF, DOCX, TXT ou PPT dans le dossier `documents_rice`.
 2. Exécutez l'importation :
 ```bash
-python utils/import_rice_documents.py --dir /Users/salimkhazem/workspace/AgenticAI/GRDF/documents_rice
+python utils/import_rice_documents.py --dir /Users/salimkhazem/workspace/AgenticAI/documents_rice
 ```
 
 3. Explorez les documents importés :
@@ -104,7 +104,7 @@ python utils/advanced_search.py --query "normes de sécurité gaz"
 ### Structure des fichiers
 
 ```
-GRDF/
+Agentic_LLM/
 ├── agents/                 # Agents spécialisés
 │   ├── gaz_expert.py       # Agent expert en gaz
 │   ├── veille_agent.py     # Agent de veille stratégique
