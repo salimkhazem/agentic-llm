@@ -1,4 +1,4 @@
-# Système Multi-Agent GRDF
+# Système Multi-Agent Gaz
 
 Ce projet implémente un système multi-agent intelligent pour GRDF (Gaz Réseau Distribution France), permettant de répondre à des questions techniques, effectuer une veille stratégique et créer des visualisations de données.
 
